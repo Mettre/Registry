@@ -18,4 +18,5 @@ public class YwingRegistryCenter {
         SpringApplication.run(YwingRegistryCenter.class, args);
     }
 
+
 }
